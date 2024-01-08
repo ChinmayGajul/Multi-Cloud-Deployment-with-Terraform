@@ -45,3 +45,12 @@ Remember to run `terraform destroy` in each directory to clean up resources and 
 ## Notes
 - Make sure to configure variables and credentials properly before deployment.
 
+## Conclusion
+
+This project harnesses the power of Terraform to provision and manage infrastructure on both AWS and Azure. By utilizing Terraform's declarative configuration, it streamlines the deployment of an AWS EC2 instance and an Azure Virtual Machine.
+
+The provided configurations in the `aws` and `azure` directories offer a hands-on experience in deploying cloud infrastructure. The README files within each directory offer detailed instructions for setting up and executing deployments.
+
+Feel free to explore, modify, and expand upon these Terraform configurations to suit your specific infrastructure needs. Remember, always ensure proper configuration of variables and credentials, and perform cleanup using `terraform destroy` after deployment to avoid any unwanted costs.
+
+
