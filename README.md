@@ -21,7 +21,7 @@ This repository contains Terraform configurations to deploy infrastructure on AW
     ```
 4. Access the AWS Management Console to view the deployed EC2 instance.
 
-![AWS EC2 Instance](AWS.png)
+![AWS EC2 Instance](Image/AWS.png)
 
 ## Azure Virtual Machine Deployment
 
