@@ -21,7 +21,7 @@ This repository contains Terraform configurations to deploy infrastructure on AW
     ```
 4. Access the AWS Management Console to view the deployed EC2 instance.
 
-![AWS EC2 Instance](Image/AWS.png)
+![AWS EC2 Instance](AWS.png)
 
 ## Azure Virtual Machine Deployment
 
@@ -40,7 +40,7 @@ This repository contains Terraform configurations to deploy infrastructure on AW
     terraform apply
     ```
 4. Access the Azure portal to view the deployed Azure Virtual Machine.
-![Azure Virtual Machine ](vsdc.png)
+![Azure Virtual Machine ](Azure.png)
 
 ### Cleanup
 Remember to run `terraform destroy` in each directory to clean up resources and avoid unwanted costs.
