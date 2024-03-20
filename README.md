@@ -1,3 +1,4 @@
+![1](User(4).gif)
 # Multi-Cloud Deployment with Terraform
 This project demonstrates Terraform's process in setting up infrastructure on both AWS and Azure. It includes the creation of EC2 instances and Azure Virtual Machines, managing networking, and deploying resources using Terraform's configuration files.
 
